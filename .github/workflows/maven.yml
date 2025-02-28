@@ -1,6 +1,6 @@
 
 
-name: CDPROD s
+name: CDPROD 
 
 on:
   push:
